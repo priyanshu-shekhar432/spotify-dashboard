@@ -73,7 +73,7 @@ The dataset is extracted from Spotify's streaming history (JSON/CSV format), typ
 
 ---
 
-## 7. Screenshots
+## 7. Screenshots/Demos
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/priyanshu-shekhar432/spotify-dashboard/blob/main/snapshot%20of%20the%20Dashboard.png)
-Example: ![Dashboard Preview](https://github.com/priyanshu-shekhar432/spotify-dashboard/blob/main/snapshot%20of%20the%20Dashboard.png)
+
